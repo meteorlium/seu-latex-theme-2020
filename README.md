@@ -6,7 +6,7 @@
 
 从摘要开始，封面建议使用word再拼接。
 
-以https://github.com/seucs/seuthesis 为基础，尽可能符合《本科生毕业设计(论文)撰写规范2019》与《本科生毕业设计(论文)模版2019》。
+以[seucs/seuthesis](https://github.com/seucs/seuthesis)为基础，尽可能符合《本科生毕业设计(论文)撰写规范2019》与《本科生毕业设计(论文)模版2019》。
 
 与《规范》不同的地方：
 
@@ -28,6 +28,6 @@
 
 ## 文件
 
-main.tex为编辑正文的文件，生成的pdf示例为main.pdf。
+`main.tex`为编辑正文的文件，生成的pdf示例为`main.pdf`。
 
-在seuthesis.cls中调整模板细节。
+在`seuthesis.cls`中调整模板细节。
